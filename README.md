@@ -6,4 +6,4 @@ Actualemente soy estudiante de Ingeniera de Software en la Universidad de la Sal
 Interesado en desarrollarme como programador Front-end y en aprender Data Science.
 
 Habilidades:
-Javascript | Wordpress | Project Management
+PHP | Javascript | Wordpress | Project Management
